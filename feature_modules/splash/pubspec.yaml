@@ -1,4 +1,4 @@
-name: accountly
+name: splash
 description: A new Flutter project.
 publish_to: 'none'
 version: 1.0.0+1
@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   core:
-    path: 'core'
+    path: '../../core'
 
 dev_dependencies:
   flutter_test:

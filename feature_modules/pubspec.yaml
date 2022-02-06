@@ -1,4 +1,4 @@
-name: accountly
+name: feature_modules
 description: A new Flutter project.
 publish_to: 'none'
 version: 1.0.0+1
@@ -9,8 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  core:
-    path: 'core'
+  splash:
+    path: "splash"
 
 dev_dependencies:
   flutter_test:
