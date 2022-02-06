@@ -1,4 +1,4 @@
-name: feature_modules
+name: task
 description: A new Flutter project.
 publish_to: 'none'
 version: 1.0.0+1
@@ -9,10 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  splash:
-    path: 'splash'
-  task:
-    path: 'task'
+  core:
+    path: '../../core'
 
 dev_dependencies:
   flutter_test:
